@@ -19,4 +19,4 @@ Esta biblioteca tem a funcionalidade de checar se um número de Cartão de Créd
 * Checa se um número de cartão de crédito é válido através do algoritmo de Luhn (utilizando regra matemática específica) e retorna *true* ou *false* de acordo com o caso.
 
 ### Versão:
-* **1.0.0**
+* **1.0.1**
