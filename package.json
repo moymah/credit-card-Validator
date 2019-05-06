@@ -1,6 +1,6 @@
 {
   "name": "mh-credit-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validador de Cartão de Crédito",
   "main": "./lib/index.js",
   "scripts": {
