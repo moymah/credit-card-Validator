@@ -4,15 +4,15 @@ Esta biblioteca tem a funcionalidade de checar se um número de Cartão de Créd
 
 ### Como instalar:
 
-```
-  $  npm install mahc3-credit-card
+```js
+  $  npm install mhc-credit-card
 ```
 
 ### Como utilizar:
 
 ```js
-  const cardValidator = require("mahc3-cpf");
-  console.log(cardValidator(00000000000)) 
+  const cardVal = require("mhc-credit-card");
+  console.log(cardVal.cardValidator(00000000000)) 
  ```
 
 ### Funcionalidades: 
