@@ -5,13 +5,13 @@ Esta biblioteca tem a funcionalidade de checar se um número de Cartão de Créd
 ### Como instalar:
 
 ```js
-  $  npm install mh-credit-card
+  $  npm install mhs-credit-card
 ```
 
 ### Como utilizar:
 
 ```js
-  const cardVal = require("mh-credit-card");
+  const cardVal = require("mhs-credit-card");
   console.log(cardVal.cardValidator(00000000000)) 
  ```
 
@@ -19,4 +19,4 @@ Esta biblioteca tem a funcionalidade de checar se um número de Cartão de Créd
 * Checa se um número de cartão de crédito é válido através do algoritmo de Luhn (utilizando regra matemática específica) e retorna *true* ou *false* de acordo com o caso.
 
 ### Versão:
-* **1.0.1**
+* **1.0.0**
